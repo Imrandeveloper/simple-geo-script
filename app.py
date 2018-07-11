@@ -1,5 +1,4 @@
 import argparse
-import pprint
 import csv
 import os
 
